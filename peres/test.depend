@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1195311104 source:c:\documents and settings\usoquotidiano\desktop\tp\test\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"tactics.h"
+	"en_phonology.h"
+
+1189093141 c:\documents and settings\usoquotidiano\desktop\tp\test\tactics.h
+	<vector>
+	<iterator>
+
+1189093667 c:\documents and settings\usoquotidiano\desktop\tp\test\e_phonology.h
+	"phonetics.h"
+
+1195309714 c:\documents and settings\usoquotidiano\desktop\tp\test\phonetics.h
+	<assert.h>
+	"tactics.h"
+
+1189330122 source:c:\documents and settings\usoquotidiano\desktop\tp\test\e_phonology.cpp
+	"e_phonology.h"
+	"tactics.h"
+
+1189449756 c:\documents and settings\usoquotidiano\desktop\tp\test\en_phonology.h
+	"phonetics.h"
+
+1195310816 source:c:\documents and settings\usoquotidiano\desktop\tp\test\en_phonology.cpp
+	"en_phonology.h"
+	"tactics.h"
+
+1189453236 source:c:\documents and settings\usoquotidiano\desktop\tp\test\it_phonology.cpp
+	"it_phonology.h"
+	"tactics.h"
+
+1189458404 c:\documents and settings\usoquotidiano\desktop\tp\test\it_phonology.h
+	"phonetics.h"
+
+1202420507 source:c:\documents and settings\nicola\desktop\tp\test\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"tactics.h"
+	"en_phonology.h"
+	"misc.h"
+
+1202141759 c:\documents and settings\nicola\desktop\tp\test\tactics.h
+	<vector>
+	<iterator>
+
+1189449758 c:\documents and settings\nicola\desktop\tp\test\en_phonology.h
+	"phonetics.h"
+
+1202141712 c:\documents and settings\nicola\desktop\tp\test\phonetics.h
+	<assert.h>
+	"tactics.h"
+
+1202479668 source:c:\documents and settings\nicola\desktop\tp\test\en_phonology.cpp
+	"en_phonology.h"
+	"tactics.h"
+	"misc.h"
+
+1202509178 source:c:\documents and settings\nicola\desktop\tp\test\phono.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"tactics.h"
+	"en_phonology.h"
+	"misc.h"
+
+1202476634 c:\documents and settings\nicola\desktop\tp\test\misc.h
+
