@@ -1,0 +1,6 @@
+hull
+engine
+bridge
+flank
+wing
+shields
